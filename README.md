@@ -1,12 +1,12 @@
-# anime_api
+# Rails Basic API
 
-ROR REST API personal project
+ROR REST API
 
 :Features
 
-* Rake task to scraped data
+* Rake Task
 
-* Insert scraped data into db with relations
+* ARA
 
 * Serializers
 
